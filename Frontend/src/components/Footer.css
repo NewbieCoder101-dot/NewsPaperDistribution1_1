@@ -1,0 +1,30 @@
+/* src/components/Footer.css */
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .social-links {
+    margin-top: 10px;
+  }
+  
+  .social-link {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .social-link:hover {
+    text-decoration: underline;
+  }
+  
